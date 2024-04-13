@@ -3,6 +3,6 @@
   <groupId>cz.tomek.edu</groupId>
   <artifactId>github-demo</artifactId>
   <version>1.0.3-SNAPSHOT</version>
- <name>Github demo</name>
+  <name>Github demo</name>
   <description>Github demo. V3.</description>
 </project>
